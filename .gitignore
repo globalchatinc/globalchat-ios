@@ -1,0 +1,60 @@
+# OS noise
+*.DS_Store
+._*
+*~
+
+# Xcode settings
+xcuserdata/
+
+# Xcode noise
+*.log
+*~.nib
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Build generated
+[Bb]uild/
+DerivedData/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Project-specific
+BModules.h.default
+setup_links.sh
+Xcode/ChatSDK Demo.xcworkspace
+XcodeSwift/ChatSDKSwift.xcworkspace
+XcodeSnapchat/
+XcodeTest/
+XcodeTestAll/
+XcodeTed/
+XcodeEric/
+XcodeXMPP/
+XcodeCalvin/
+XcodeXMPPSwift/
+FirebaseUI-iOS/
+firebase-ios-sdk/
+XcodeTestAll/
+ChatSDKDemo/
+INDX420/
+Old/
+XcodeStefan/
+XcodeFirebaseWithPods/
+FirebaseAdapter/
+XcodeChatcat/
+XcodeXMPPXolile/
+XcodeLive/
+XcodePrivate/
+XcodeXMPPClient/
+ChatSDKModules/
+Archived/
+
+# Ignore these in subfolders, but track in root of repo
+ChatSDKFirebase/
+ChatSDKFirebaseAdapter/
+ChatSDKModules/
+!/ChatSDKFirebase/
+!/ChatSDKFirebaseAdapter/
+!/ChatSDKModules/
